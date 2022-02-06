@@ -1,0 +1,1 @@
+tr -d "[ ]" > testfile && tr '[:lower:]' '[:upper:]' < testfile
